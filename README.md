@@ -1,4 +1,13 @@
-## <p align="center"> Hi there 👋 </p>
+<p align="center">
+  <img src="https://github.com/sadia3160/sadia3160/blob/e8288ee748512530df436f49fe3eb36858d23f4c/pictures/sprited_away.png" 
+       width="100%" 
+       height="150" 
+       style="object-fit: cover; object-position: center; border-radius: 5px;" 
+       alt="Banner" 
+  />
+</p>
+
+## <p align="center"> Hi there <img src="https://github.com/sadia3160/sadia3160/blob/fcfc171439761f6343dfb76d27dc8ce1dcb42652/stickers/Star%20Sticker.gif" width="3%" alt="welcome star"/> </p>
 I'm Sadia Sultana, also go by 'Itou'. I'm an undergrade Computer Science and Engineering student based in Sylhet, Bangladesh.
 - Currently I'm working on a web project and
 - Exploring AI/ML<br>
