@@ -3,7 +3,8 @@
        width="100%" 
        height="150" 
        style="object-fit: cover; object-position: center; border-radius: 5px;" 
-       alt="Banner" 
+       alt="Sprited Away Banner"
+       title="💌: Nothing in life is free, you always pay in the end. ~wayne"
   />
 </p>
 
@@ -18,4 +19,4 @@ I'm Sadia Sultana, also go by 'Itou'. I'm an undergrade Computer Science and Eng
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)  
 <br>
 
-💌: <i>"To function properly, you always need to return to yourself."</i>
+⋮ <i>To function properly, you always need to return to yourself.</i>
