@@ -9,9 +9,7 @@
 </p>
 
 ## <p align="center"> Hi there <img src="https://github.com/sadia3160/sadia3160/blob/fcfc171439761f6343dfb76d27dc8ce1dcb42652/stickers/Star%20Sticker.gif" width="3%" alt="welcome star"/> </p>
-I'm Sadia Sultana, also go by 'Itou'. I'm an undergrade Computer Science and Engineering student based in Sylhet, Bangladesh.
-- Currently I'm working on a web project and
-- Exploring AI/ML<br>
+I'm Sadia Sultana. Currently, an undergrade Computer Science and Engineering student based in Sylhet, Bangladesh.<br>
 
 **My tech:** 
 
